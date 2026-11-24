@@ -1,0 +1,15 @@
+# Runtime state & local root binaries
+settings.ini
+active_profile.txt
+*.log
+/WinCpuBoost.exe
+/PawnIoCalibrate.exe
+/IntelMSR.bin
+/AppleT2Smc.bin
+/WinCpuBoost.cs
+/PawnIoCalibrate.cs
+
+# Build & release staging
+dist/
+build/
+.DS_Store
